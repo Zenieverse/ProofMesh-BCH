@@ -1,0 +1,5 @@
+{
+  "name": "ProofMesh BCH",
+  "description": "A modular smart contract playground for building UTXO-native dApps on Bitcoin Cash using PMv3 and Cashtokens via a visual node graph.",
+  "requestFramePermissions": []
+}
